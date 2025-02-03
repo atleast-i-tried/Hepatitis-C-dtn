@@ -1,2 +1,2 @@
-# HCV-prediction
-HCV Prediction using Random Forest 
+# Hepatitis C-prediction
+HCV detection using Random Forest 
